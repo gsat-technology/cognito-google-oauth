@@ -20,5 +20,11 @@ Demonstrates how to create a public S3 bucket (website) and allow a simple sign-
 14. Copy the client ID
 15. Paste client ID in index.html
 
+#Create a service account
+1. Click 'create credentials'
+2. Click 'service account key'
+3. From 'service account' drop down select 'new service accout'
+4. Download the JSON key type
+
 
 
